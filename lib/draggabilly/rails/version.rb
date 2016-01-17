@@ -1,5 +1,5 @@
 module Draggabilly
   module Rails
-    VERSION = '1.2.4'.freeze
+    VERSION = '2.1.0'.freeze
   end
 end
